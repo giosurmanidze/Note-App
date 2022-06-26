@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Note-App/static/css/main.f0c5dc39.css",
-    "main.js": "/Note-App/static/js/main.23ef74bd.js",
+    "main.css": "/Note-App/static/css/main.804d9c2f.css",
+    "main.js": "/Note-App/static/js/main.60a15769.js",
     "index.html": "/Note-App/index.html",
-    "main.f0c5dc39.css.map": "/Note-App/static/css/main.f0c5dc39.css.map",
-    "main.23ef74bd.js.map": "/Note-App/static/js/main.23ef74bd.js.map"
+    "main.804d9c2f.css.map": "/Note-App/static/css/main.804d9c2f.css.map",
+    "main.60a15769.js.map": "/Note-App/static/js/main.60a15769.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0c5dc39.css",
-    "static/js/main.23ef74bd.js"
+    "static/css/main.804d9c2f.css",
+    "static/js/main.60a15769.js"
   ]
 }
